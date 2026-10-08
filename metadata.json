@@ -1,0 +1,6 @@
+{
+  "name": "Habla como un español - Millionaire Quiz",
+  "description": "Իսպաներեն-հայերեն ինտերակտիվ վիկտորինա «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով B1–B2 խոսակցական արտահայտություններով",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
